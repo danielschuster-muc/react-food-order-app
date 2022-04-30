@@ -1,4 +1,9 @@
-# react-food-order-app
+# React Food Order App
+Simple react app which allows users to pick various items from a menu. Selected items will be add to a cart where user can check their order before submitting it.
+
+## Framework
+- React v18.0.0
+- Firebase Realtime Database
 
 ## Setup
 
@@ -20,7 +25,7 @@ npm install
 REACT_APP_FIREBASE_URL=https://DATABASE_NAME.firebaseio.com
 ```
 
-4. Import the following json file for some sample data in your db
+4. Import the following json file into your db for some sample meals
 
 ```json
 {
