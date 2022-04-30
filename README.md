@@ -15,7 +15,7 @@ npm install
 ```
 
 3. Create a .env file and put your firebase url into it
-Make sure to choose realtime database when creating the db.
+
 ```
 REACT_APP_FIREBASE_URL=https://DATABASE_NAME.firebaseio.com 
 ```
