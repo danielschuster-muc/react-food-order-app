@@ -1,6 +1,6 @@
 import HeaderCartButton from "./HeaderCartButton";
 
-import mealsImg from "../../assets/meals.jpg";
+import mealsImg from "../../assets/food.jpg";
 
 import styles from "./Header.module.css";
 
