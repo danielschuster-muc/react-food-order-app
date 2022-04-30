@@ -46,6 +46,6 @@ REACT_APP_FIREBASE_URL=https://DATABASE_NAME.firebaseio.com
 
 5. Start the server
 
-```
+```console
 npm start
 ```
